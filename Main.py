@@ -5,8 +5,8 @@ from telegram import Bot
 # =========================
 # CONFIG
 # =========================
-BOT_TOKEN = "8653003388:AAG3ttbggPdwUVg3_8ZKNmv-sEXf3oC0tFc"
-CHAT_ID = "5997796839"
+BOT_TOKEN = "86xxxxxxxxxxxxxxxxxxxxxxxxx"
+CHAT_ID = "5xxxxxxxxxxxxxxx"
 
 TARGET_PRICE = 126.6
 CHECK_INTERVAL = 20   # seconds
